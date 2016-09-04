@@ -1,0 +1,15 @@
+c:\users\hoke\documents\visual studio 2015\Projects\tv\tv\bin\Debug\Interop.WMPLib.dll
+c:\users\hoke\documents\visual studio 2015\Projects\tv\tv\bin\Debug\AxInterop.WMPLib.dll
+c:\users\hoke\documents\visual studio 2015\Projects\tv\tv\obj\Debug\tv.csprojResolveAssemblyReference.cache
+c:\users\hoke\documents\visual studio 2015\Projects\tv\tv\obj\Debug\Interop.WMPLib.dll
+c:\users\hoke\documents\visual studio 2015\Projects\tv\tv\obj\Debug\AxInterop.WMPLib.dll
+c:\users\hoke\documents\visual studio 2015\Projects\tv\tv\obj\Debug\tv.csproj.ResolveComReference.cache
+c:\users\hoke\documents\visual studio 2015\Projects\tv\tv\obj\Debug\tv.Form1.resources
+c:\users\hoke\documents\visual studio 2015\Projects\tv\tv\obj\Debug\tv.Properties.Resources.resources
+c:\users\hoke\documents\visual studio 2015\Projects\tv\tv\obj\Debug\tv.csproj.GenerateResource.Cache
+c:\users\hoke\documents\visual studio 2015\Projects\tv\tv\obj\Debug\tv.Form2.resources
+c:\users\hoke\documents\visual studio 2015\Projects\tv\tv\bin\Debug\Ev Yapımı TV.exe.config
+c:\users\hoke\documents\visual studio 2015\Projects\tv\tv\bin\Debug\Ev Yapımı TV.exe
+c:\users\hoke\documents\visual studio 2015\Projects\tv\tv\bin\Debug\Ev Yapımı TV.pdb
+c:\users\hoke\documents\visual studio 2015\Projects\tv\tv\obj\Debug\Ev Yapımı TV.exe
+c:\users\hoke\documents\visual studio 2015\Projects\tv\tv\obj\Debug\Ev Yapımı TV.pdb
