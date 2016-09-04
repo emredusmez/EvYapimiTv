@@ -7,6 +7,7 @@ Evdeki televizyonun bozulması ile beraber yapmış olduğum basit ama en azınd
 Direkt olarak kullanmak için
 
 - IR alıcısını arduinonun 2. pine bağlayın.
+- Arduino IRremote master klasöründeki kütüphaneyi import edin
 - Tv_kumanda klasöründeki arduino yazılımını yükleyin.
 - Serial monitorden evinizdeki kumandanın tuşlarına basarak  hangi tuşa basınca hangi değer çıktığını not alın.
 - Not aldığınız değerleri tv klasöründeki form1.cs içersiinde  t1 t2 ses v.s  şeklinde listelenmiş değişkenlere  tuşlara göre aratayın.
