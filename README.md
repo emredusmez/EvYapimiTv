@@ -17,3 +17,5 @@ Direkt olarak kullanmak için
 Mevcutta her tuş numarasına (0-9 tuşlarına) birer adet kanal ve ses açıp kapatma foknksiyonu eklidir.
 
 Belirlediğim kanalları izleyebilecek şekilde fazla kanal gereksinimi duymadan 10 adet kanal için basit bir şekilde yaptım. Dilediğiniz gibi geliştirebilir yeni özellikler ekleyebilir hatta smart tv kıvamına bile getirebilirsiniz. :)
+
+NOT: İNTERNET EXPLORER  10 VE ÜZERİNİ BİLGİSAYARINIZA KURMANIZ FAYDALI OLACAKTIR. DİĞER SÜRÜMLERDE BAZEN FLSAH HATASI V.B ŞEYLER OLABİLİYOR
